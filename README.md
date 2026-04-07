@@ -60,7 +60,7 @@ A modern and responsive **Finance Dashboard** built using **React.js** and **CSS
 
 * **Frontend:** React.js
 * **Styling:** CSS
-* **Charts:** (Recharts / Chart.js - whichever you used)
+* **Charts:** (Recharts / Chart.js)
 * **Data Handling:** Mock API
 
 ---
